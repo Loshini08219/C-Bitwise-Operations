@@ -1,2 +1,5 @@
 # C-Bitwise-Operations
-My C programming practice on bitwise operations, including MCQs and bit manipulation programs.
+
+A beginner-friendly C programming practice project focused on **Bitwise Operators and Bit Manipulation**.
+
+
