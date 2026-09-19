@@ -12,3 +12,12 @@ c) `|`, `&`, `^`, `<=`, `>>`
 d) `|`, `&`, `^`, `~`, `>>`, `<<`
 
 **Answer:** d) `|`, `&`, `^`, `~`, `>>`, `<<`
+
+### 2. What is the primary use of bitwise operators in C?
+
+a) To initialize a variable  
+b) To confuse the programmer  
+c) To access and modify data in the context of bits  
+d) To perform mathematical operations
+
+**Answer:** c) To access and modify data in the context of bits
