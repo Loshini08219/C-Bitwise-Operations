@@ -10,7 +10,7 @@ int main()
     s=s | 0xF0;
     s=s & 0xF0;
 
-    printf("After setting the  bit: ");
+    printf("After setting and clearing the  bit: ");
 
     for (int i = 7; i >= 0; i--)
     {
