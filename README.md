@@ -4,15 +4,13 @@ A beginner-friendly C programming project focused on **Bitwise Operators and Bit
 
 ## 🔹 Bitwise Operators
 
-| Operator | Name        | Use              |         
-| -------- | ----------- | ---------------- | 
-| `&`      | AND         | Check/Clear bits |          
-| `|`      | OR          | Set bits         |
-| `^`      | XOR         | Toggle bits      |          
-| `~`      | NOT         | Invert bits      |          
-| `<<`     | Left Shift  | Shift bits left  |          
-| `>>`     | Right Shift | Shift bits right |          
-
+* `&` — Bitwise AND — Check or clear bits
+* `|` — Bitwise OR — Set bits
+* `^` — Bitwise XOR — Toggle bits
+* `~` — Bitwise NOT — Invert all bits
+* `<<` — Left Shift — Shift bits to the left
+* `>>` — Right Shift — Shift bits to the right
+         
 ## 🔧 Bit Manipulation
 
 Common operations:
